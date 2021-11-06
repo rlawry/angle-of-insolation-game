@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 10%;
-    width: 50vw;
+    width: 70vw;
 }
 
 .points{
@@ -63,7 +63,7 @@ button {
     color: white;
     font-family:'Courier New', Courier, monospace;
     width: 30%;
-    height: 80%;
+    height: 70%;
     margin: 2%;
     padding: 2%;
     border-radius: 10%;
