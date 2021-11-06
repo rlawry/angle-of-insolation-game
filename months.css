@@ -35,7 +35,8 @@ div {
 }
 .text2 {
     font-family: DejaVu Sans Mono, monospace;
-    font-size: 2vw;
+    font-size: 3vw;
+    text-align: center;
     text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #33aaff, 0 0 40px #335aFF;
     
 }
